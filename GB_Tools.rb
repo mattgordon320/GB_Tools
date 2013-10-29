@@ -33,12 +33,4 @@ module GB_Tools
 
 	file_loaded(__FILE__)
 
-	# ### PREFERENCES ###-----------------------------------------
-
-	# ### MENU & TOOLBARS ###-------------------------------------
-
-	# # # MENUS
-	# m = GB_Tools.menu('GB_Tools').add_submenu('Guide Lines')
-	# m.add_item(example)
-
 end #Module
